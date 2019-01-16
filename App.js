@@ -15,6 +15,9 @@ const instructions = Platform.select({
     'Bonne continuation a vous!!',
 });
 
+/**
+ * Mon commentaire
+ */
 type Props = {};
 export default class App extends Component<Props> {
   render() {
